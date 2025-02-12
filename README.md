@@ -1,2 +1,2 @@
-# soniapolis_v1
-OG soniapolis.com
+# soniapolis.com version 1
+Archive of first implementation of my website :p
